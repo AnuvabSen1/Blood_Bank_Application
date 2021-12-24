@@ -32,17 +32,34 @@ Open the application, create an account. That's it.
 
 N.B: It supports only in android version 4.0 or later.
 
+
+# ✨Our Contributors
+
+Thanks goes to these wonderful people
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<table>
+	<tr>
+		<td>
+      <a href="https://github.com/AnuvabSen/Blood_Bank_Application/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=AnuvabSen/Blood_Bank_Application" />
+      </a>
+		</td>
+	</tr>
+</table>
+
 # Preview:
 <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/spalsh.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank2.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank6.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank3.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank4.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank1.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank5.png" alt="Splash Screen" width="100" height="200" /> 
 
 
 
 ![](https://img.shields.io/github/stars/AnuvabSen/Blood_Bank_App.svg)
-![](https://img.shields.io/github/forks/imshakil/Blood_Bank_App.svg)
-[![HitCount](http://hits.dwyl.io/imshakil/BloodBank.svg)](http://hits.dwyl.io/imshakil/BloodBank)
-![](https://img.shields.io/github/tag/imshakil/BloodBank.svg) 
-![](https://img.shields.io/github/v/release/imshakil/BloodBank.svg) 
-![](https://img.shields.io/github/issues/imshakil/BloodBank.svg) 
+![](https://img.shields.io/github/forks/AnuvabSen/Blood_Bank_Application.svg)
+![](https://img.shields.io/github/tag/AnuvabSen/Blood_Bank_Application.svg) 
+![](https://img.shields.io/github/v/release/AnuvabSen/Blood_Bank_Application.svg) 
+![](https://img.shields.io/github/issues/AnuvabSen/Blood_Bank_Application.svg)
+
+
 
 
 # Database Snapshot
